@@ -136,9 +136,9 @@ export default function ExhibitionPage({ params }: PageProps) {
       )}
 
       {/* Footer */}
-      <footer className="border-t border-museum-border mt-auto">
+      <footer className="mt-auto">
         <div className="px-6 md:px-12 py-8 max-w-gallery mx-auto flex items-center justify-between font-sans text-[14px] text-museum-muted">
-          <span>Made with nowshowing</span>
+          <a href="https://github.com/alexbeltechi/nowshowing" target="_blank" rel="noopener noreferrer" className="hover:text-museum-text transition-colors">Made with nowshowing</a>
           <span>&copy; Alex Beltechi {new Date().getFullYear()}</span>
         </div>
       </footer>

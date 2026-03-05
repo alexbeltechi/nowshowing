@@ -8,20 +8,16 @@ export default function Home() {
     <main className="min-h-screen flex flex-col">
       {/* Header */}
       <header className="px-6 pt-12 pb-8 md:px-12 md:pt-20 md:pb-10 max-w-gallery mx-auto w-full">
-        <h1 className="font-display text-[20px] font-bold tracking-tight">
-          Beltechi
+        <h1 className="font-display text-3xl md:text-4xl font-bold tracking-tight">
+          Now showing
         </h1>
         <p className="mt-2 font-body text-base text-museum-muted">
-          An AI-curated body of work, updated monthly.
+          <a href="https://beltechi.com" className="underline hover:text-museum-text transition-colors">Alex Beltechi&apos;s</a> body of work, curated by AI.
         </p>
       </header>
 
       {/* Exhibition Grid */}
       <section className="px-6 md:px-12 max-w-gallery mx-auto w-full flex-1">
-        <p className="font-sans text-xs tracking-widest uppercase text-museum-muted mb-8">
-          Now showing
-        </p>
-
         {exhibitions.length === 0 ? (
           <div className="py-20 text-center">
             <p className="font-body text-museum-muted text-lg">
@@ -66,9 +62,9 @@ export default function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="border-t border-museum-border">
+      <footer>
         <div className="px-6 md:px-12 py-8 max-w-gallery mx-auto flex items-center justify-between font-sans text-[14px] text-museum-muted">
-          <span>Made with nowshowing</span>
+          <a href="https://github.com/alexbeltechi/nowshowing" target="_blank" rel="noopener noreferrer" className="hover:text-museum-text transition-colors">Made with nowshowing</a>
           <span>&copy; Alex Beltechi {new Date().getFullYear()}</span>
         </div>
       </footer>
