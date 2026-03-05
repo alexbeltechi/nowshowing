@@ -1,0 +1,9 @@
+{
+  "name": "Beltechi",
+  "tagline": "",
+  "owner": "Alex Beltechi",
+  "description": "AI-curated exhibitions from a personal archive.",
+  "url": "",
+  "donation_url": null,
+  "max_concurrent_shows": 3
+}

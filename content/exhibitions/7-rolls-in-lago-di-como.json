@@ -1,0 +1,75 @@
+{
+  "id": "7-rolls-in-lago-di-como",
+  "title": "7 Rolls in Lago di Como",
+  "slug": "7-rolls-in-lago-di-como",
+  "category": "travel",
+  "status": "showing",
+  "created_date": "2026-03-05",
+  "showing_since": "2026-03-05",
+  "curator_statement": "Seven rolls of film shot at Lake Como in June 2023. Not a curated version of the trip — the full run of it, including the gaps and the frames that weren't quite intended.\n\nThe lake appears in almost every roll: from a ferry window, from above through a terrace of cypress trees, through an arch at the bottom of an alley, in the corner of a portrait. It's the one fixed thing while everything else — light, weather, which roll is loaded — keeps changing.\n\nThe B&W rolls and the color rolls are doing different work. The black-and-white catches the lake as infrastructure: the ferry as a commuter vessel, the architecture holding its age quietly, the water like hammered silver from the deck. The color rolls are warmer and more permissive — saturated ochre alleys, a yellow villa sitting right on the waterline, a woman in red stepping into a shop.\n\nThe double exposures in roll 6892 weren't planned. They're the best things in the set.",
+  "works": [
+    {
+      "filename": "6892-000018.jpg",
+      "position": 1,
+      "label": "Double exposure — man in café, lake through window",
+      "curator_note": "Roll 6892. Unplanned. Works because of it."
+    },
+    {
+      "filename": "6892-000044.jpg",
+      "position": 2,
+      "label": "Double exposure — interior, burst of light",
+      "curator_note": "Roll 6892."
+    },
+    {
+      "filename": "6910-000022.jpg",
+      "position": 3,
+      "label": "Como from the water, mountains behind",
+      "curator_note": "Roll 6910."
+    },
+    {
+      "filename": "6910-000025.jpg",
+      "position": 4,
+      "label": "Man on the ferry, looking out",
+      "curator_note": "Roll 6910. The quietest image in the set."
+    },
+    {
+      "filename": "6910-000040.jpg",
+      "position": 5,
+      "label": "The lake, silver light on water",
+      "curator_note": "Roll 6910."
+    },
+    {
+      "filename": "6912-000004.jpg",
+      "position": 6,
+      "label": "Ferry docked at Como, mountains",
+      "curator_note": "Roll 6912."
+    },
+{
+      "filename": "6913-000045.jpg",
+      "position": 8,
+      "label": "Woman on the ferry, squinting into the sun",
+      "curator_note": "Roll 6913. Mountain behind her."
+    },
+    {
+      "filename": "6915-000005.jpg",
+      "position": 9,
+      "label": "Narrow alley, ochre and terracotta",
+      "curator_note": "Roll 6915. First color roll."
+    },
+    {
+      "filename": "6915-000055.jpg",
+      "position": 10,
+      "label": "Yellow villa on the waterfront",
+      "curator_note": "Roll 6915."
+    },
+    {
+      "filename": "6917-000035.jpg",
+      "position": 13,
+      "label": "Boats on cobblestone, arched bridge",
+      "curator_note": "Roll 6917."
+    }
+  ],
+  "source_folder": "/Volumes/BeltechiArc/Travel/Italy/2023-06-01_LagoDiComo",
+  "image_count": 10,
+  "tags": ["travel", "italy", "lake como", "film", "black-and-white", "color", "double exposure", "landscape"]
+}

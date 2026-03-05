@@ -1,0 +1,39 @@
+{
+  "id": "threshold-of-light",
+  "title": "Threshold of Light",
+  "slug": "threshold-of-light",
+  "category": "photography",
+  "status": "archived",
+  "created_date": "2026-03-05",
+  "showing_since": "2026-03-05",
+  "curator_statement": "There is a moment in the late afternoon when the city belongs to neither day nor night. The facades of Alfama still hold the warmth of the sun \u2014 a deep, amber glow trapped in ceramic tile \u2014 but the neon of the shop signs has already begun to assert itself, casting cold pools of blue and pink across wet cobblestone.\n\nThis exhibition gathers twelve photographs taken during that threshold hour across two weeks in Lisbon. They are not dramatic images. Nothing decisive happens in any of them. Instead, they document a quality of light that exists for perhaps fifteen minutes each evening before the city tips fully into darkness.\n\nWhat connects these works is not subject but atmosphere \u2014 the way a tiled wall becomes a screen for projected color, the way a figure crossing a square is caught between two kinds of shadow. The curator's interest here is in photography as a medium uniquely suited to recording transitions that the eye registers but rarely holds.",
+  "works": [
+    {
+      "filename": "sample-01.jpg",
+      "position": 1,
+      "label": "Alfama at dusk, October 2019",
+      "curator_note": "The lead image \u2014 where warm and cool light meet on a single wall."
+    },
+    {
+      "filename": "sample-02.jpg",
+      "position": 2,
+      "label": "Tiled facade, Rua Augusta",
+      "curator_note": null
+    },
+    {
+      "filename": "sample-03.jpg",
+      "position": 3,
+      "label": "Figure crossing Pra\u00e7a do Com\u00e9rcio",
+      "curator_note": "Caught between the last daylight and the first streetlamp."
+    }
+  ],
+  "source_folder": "/Volumes/Archive/Lisbon-2019",
+  "image_count": 3,
+  "tags": [
+    "street",
+    "architecture",
+    "lisbon",
+    "night",
+    "light"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "portrait-of-ada",
+  "title": "Portrait of Ada",
+  "slug": "portrait-of-ada",
+  "category": "photography",
+  "status": "showing",
+  "created_date": "2026-03-05",
+  "showing_since": "2026-03-05",
+  "curator_statement": "This session from November 2022 is, at its core, a study in what a body declares. The camera doesn't flinch, and neither does she.\n\nThe session was shot on both digital and film, and that dual track is worth keeping. The digital images are precise and controlled — fashion in the truest sense, the body as image. The film images breathe differently. The grain softens the studio's clean white, and the intimacy of the format shows up most in the quieter shots: the close portrait with her hand resting at her temple, the one where she's lying down looking sideways at the camera, eyes half-open.\n\nWhat the best images here have in common is that the pose isn't separate from the person. The crouching compression in the camel top; the mid-air dancer stance in the black-and-white digital; the splayed, grounded sit on the studio floor. These aren't poses performed for the camera — they're positions the body already knows.",
+  "works": [
+    {
+      "filename": "R1-06441-0001.jpg",
+      "position": 1,
+      "label": "Close portrait, turtleneck, hand at temple",
+      "curator_note": "The anchor image. Direct, unhurried."
+    },
+    {
+      "filename": "DSC_0581.jpg",
+      "position": 2,
+      "label": "Profile — neck, gold earring",
+      "curator_note": "The cleanest image in the set."
+    },
+    {
+      "filename": "R1-06440-0004.jpg",
+      "position": 3,
+      "label": "Standing, cut vest held open",
+      "curator_note": "The grain makes the stance feel charged."
+    },
+    {
+      "filename": "DSC_0875.jpg",
+      "position": 4,
+      "label": "Crouching in camel top, eye contact",
+      "curator_note": "Most physically surprising image in the session."
+    },
+    {
+      "filename": "R1-06441-0007.jpg",
+      "position": 5,
+      "label": "Turtleneck, hand raised to head",
+      "curator_note": null
+    },
+    {
+      "filename": "DSC_0985.jpg",
+      "position": 6,
+      "label": "Dancer stance, leg raised, arm extended",
+      "curator_note": "The only image that feels like pure movement."
+    },
+    {
+      "filename": "R1-06440-0009.jpg",
+      "position": 7,
+      "label": "Seated on chair, vest open, necklaces",
+      "curator_note": null
+    },
+    {
+      "filename": "DSC_0695.jpg",
+      "position": 8,
+      "label": "Seated on floor, lingerie",
+      "curator_note": null
+    },
+    {
+      "filename": "R1-06441-0021.jpg",
+      "position": 9,
+      "label": "Splayed on stool, blazer over lingerie",
+      "curator_note": "Casually off-balance, the most relaxed pose."
+    },
+    {
+      "filename": "DSC_1309.jpg",
+      "position": 10,
+      "label": "Seated on chair, open garment, bare feet",
+      "curator_note": null
+    },
+    {
+      "filename": "R1-06441-0027.jpg",
+      "position": 11,
+      "label": "Lying down, hands framing face",
+      "curator_note": "The most intimate image in the set."
+    },
+    {
+      "filename": "R1-06440-0019.jpg",
+      "position": 12,
+      "label": "Close crop, chest, direct gaze",
+      "curator_note": null
+    }
+  ],
+  "source_folder": "/Volumes/BeltechiArc/Photography/AdaBucur/2022-11-16_Ada",
+  "image_count": 12,
+  "tags": ["portrait", "studio", "film", "fashion", "body", "intimacy", "black-and-white"]
+}
